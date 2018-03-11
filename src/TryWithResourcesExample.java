@@ -5,7 +5,7 @@ import java.io.IOException;
 /**
  * Created by andriusbaltrunas on 3/11/2018.
  */
-//only from Java 7
+//only from Java 7 can made this try with resources block
 public class TryWithResourcesExample {
 
     public static void main(String[] args) {
